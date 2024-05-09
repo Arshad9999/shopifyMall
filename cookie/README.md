@@ -6,7 +6,7 @@
 [![Build Status][github-actions-ci-image]][github-actions-ci-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
 
-Basic HTTP cookie parser and serializer for HTTP servers.
+Basic HTTP cookie parser and serializer for HTTP servers. OK
 
 ## Installation
 
